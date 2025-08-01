@@ -1,5 +1,5 @@
 function add(a){
-    console.log(13/2);
+    console.log(14/2);
     a();
     return function(){
         console.log("something");
